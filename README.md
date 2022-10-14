@@ -1,1 +1,1 @@
-# ITAM_python_course_2022
+# Дмитрий Акимов
